@@ -62,7 +62,7 @@ public class ControlJuego {
 	}
 	
 	/**
-	 * Método que nos permite 
+	 * Método que nos permite abrir una casilla. Devuelve verdadero y suma un punto si no hay mina. 
 	 * @pre : La casilla nunca debe haber sido abierta antes, no es controlado por el ControlJuego. Por lo tanto siempre sumaremos puntos
 	 * @param i: posición verticalmente de la casilla a abrir
 	 * @param j: posición horizontalmente de la casilla a abrir
