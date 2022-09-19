@@ -14,6 +14,7 @@ Pasos
 
 4. Implementa el buscaminas. No olvides ir haciendo "commits" y "pushs" según vayas avanzando en el desarrollo. Así podrás llevar un seguimiento.
 
+5. Prueba Fréderic.
 
 
 Licencia
